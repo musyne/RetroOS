@@ -1,1 +1,2 @@
-mkdir Roms
+# Folders and Samba share
+mkdir Joypads Roms
